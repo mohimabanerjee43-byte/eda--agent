@@ -1,0 +1,42 @@
+{
+    "generated_at": "2026-02-07 01:11:28",
+    "dataset_shape": [
+        12,
+        6
+    ],
+    "columns": [
+        "Age",
+        "Department",
+        "Salary",
+        "YearsAtCompany",
+        "JobSatisfaction",
+        "Attrition"
+    ],
+    "missing_values": {
+        "Age": 0,
+        "Department": 0,
+        "Salary": 1,
+        "YearsAtCompany": 0,
+        "JobSatisfaction": 1,
+        "Attrition": 0
+    },
+    "anomalies": {
+        "Age": [],
+        "Salary": [],
+        "YearsAtCompany": [],
+        "JobSatisfaction": []
+    },
+    "recommended_features": [
+        "Create interaction features between numeric columns",
+        "Apply one-hot encoding to categorical features",
+        "Check skewness and apply log/box-cox transforms if needed"
+    ],
+    "model_recommendation": {
+        "problem": "regression",
+        "models": [
+            "Linear Regression",
+            "Random Forest",
+            "LightGBM"
+        ]
+    }
+}

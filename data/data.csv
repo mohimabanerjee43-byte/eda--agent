@@ -1,0 +1,13 @@
+Age,Department,Salary,YearsAtCompany,JobSatisfaction,Attrition
+25,Sales,40000,1,3,Yes
+30,HR,50000,3,4,No
+45,Engineering,80000,10,2,No
+28,Sales,42000,2,3,Yes
+35,Engineering,75000,7,4,No
+40,HR,60000,12,1,Yes
+50,Engineering,90000,20,3,No
+29,Sales,38000,1,2,Yes
+33,Engineering,70000,5,4,No
+38,HR,,8,3,No
+26,Sales,41000,2,,Yes
+42,Engineering,82000,15,2,No
