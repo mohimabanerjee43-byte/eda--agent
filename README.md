@@ -1,5 +1,5 @@
 # 🤖 Automated EDA Agent  
-### GenZ for GenAI – Challenge 2 Submission
+
 
 An intelligent data science agent that automates Exploratory Data Analysis (EDA), anomaly detection, feature engineering suggestions, visualization, and model recommendation using a scalable, agent-based architecture.
 
@@ -31,4 +31,3 @@ The goal is to **reduce data analysis time from hours to minutes** while maintai
 
 ---
 
-## 🏗️ Architecture
